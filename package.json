@@ -1,0 +1,15 @@
+{
+  "name": "kahoot",
+  "version": "1.0.0",
+  "description": "Kahoot spammer for school!",
+  "main": "app.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "keywords": ["kahoot", "bot", "spam"],
+  "author": "SzeligBalazs",
+  "license": "ISC",
+  "dependencies": {
+    "@venixthedev/kahootjs": "^2.4.1"
+  }
+}
