@@ -1,6 +1,10 @@
-# Working Kahoot Spammer with JS
-Powered by <a href="https://www.npmjs.com/package/@venixthedev/kahootjs">kahootjs</a>!
-
+<div align="center">
+    <h2>Working Kahoot Spammer with JS</h2>
+    <img style="width: 90%" src="screenshot.png">
+    <br>
+    Powered by <a href="https://www.npmjs.com/package/@venixthedev/kahootjs">kahootjs</a>!
+</div>
+<br>
 If you want to use it **please use it on your own risk**!
 <br>
 Clone it wiht GitHub
