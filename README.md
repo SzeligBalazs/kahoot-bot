@@ -5,6 +5,7 @@
     Powered by <a href="https://www.npmjs.com/package/@venixthedev/kahootjs">kahootjs</a>!
 </div>
 <br>
+
 If you want to use it **please use it on your own risk**!
 <br>
 Clone it wiht GitHub
