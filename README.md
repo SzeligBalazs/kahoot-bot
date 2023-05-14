@@ -1,5 +1,5 @@
 <div align="center">
-    <h2>Working Kahoot Spammer with JS</h2>
+    <h1>Working Kahoot Spammer with JS</h1>
     <img style="width: 90%" src="screenshot.png">
     <br>
     Powered by <a href="https://www.npmjs.com/package/@venixthedev/kahootjs">kahootjs</a>!
@@ -8,7 +8,7 @@
 
 If you want to use it **please use it on your own risk**!
 <br>
-Clone it wiht GitHub
+Clone it with GitHub
 ```bash
 git clone https://github.com/SzeligBalazs/kahoot-bot.git
 ```
@@ -19,18 +19,18 @@ git clone https://github.com/SzeligBalazs/kahoot-bot.git
 
 ## How to use it?
 
-Open the cloned repo with a termnal app, then run this command to get all packages for the software:
+Open the cloned repo with a terminal app/emulator, then run this command to get all dependencies for the software:
 
 ```bash
 npm install
 ```
 
-If you installed all packages run the software with the command bellow
+If you installed all dependencies run the software with the command bellow
 ```bash
 npm start
 ```
 
-Then the program will executing itself but you need to add **3** parameters:
+Then the program will executing itself but you need to specify **3** parameters:
 - The Game PIN
 - One name for all bots (example: Spam)
 - And the number of the bots
@@ -41,20 +41,20 @@ Then the program will executing itself but you need to add **3** parameters:
 
 
 Enter game PIN: 3266962
-Enter a name for all bots: Alma
+Enter a name for all bots: Hi all
 Enter the number of bots: 256
 Joining kahoot...
-A joined the Kahoot quiz!
-A joined the Kahoot quiz!
-A joined the Kahoot quiz!
-A joined the Kahoot quiz!
-A joined the Kahoot quiz!
-A joined the Kahoot quiz!
+A bot joined the Kahoot quiz!
+A bot joined the Kahoot quiz!
+A bot joined the Kahoot quiz!
+A bot joined the Kahoot quiz!
+A bot joined the Kahoot quiz!
+A bot joined the Kahoot quiz!
 
 ...
 ```
 
-And then the bots will be in game!
+**And then the bots will be in game!**
 
 ## License
 ```
@@ -82,5 +82,5 @@ SOFTWARE.
 ```
 
 
-# Thank you!
+## Thank you!
 

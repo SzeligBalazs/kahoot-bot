@@ -12,7 +12,7 @@ readline.question("Enter game PIN: ", (gp) => {
   readline.question("Enter a name for all bots: ", (name) => {
     readline.question("Enter the number of bots: ", (number) => {
       readline.close();
-      if (name != null) {
+      if (name != null || name != undefined) {
         console.log("Joining kahoot...");
         for (let i = 0; i < number; i++) {
           kahoots.push(new Kahoot());
@@ -35,6 +35,10 @@ readline.question("Enter game PIN: ", (gp) => {
             console.log("The quiz has ended.");
           });
         }
+      } else {
+        kahoots[i].join(gp, "Somebody").catch((error) => {
+          console.log(error);
+        });
       }
     });
   });
